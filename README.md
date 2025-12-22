@@ -15,9 +15,10 @@ A full-stack job portal where recruiters can post jobs and job seekers can apply
 - Authentication: JWT
 
 ## Day 1 Progress
-- Project planning completed
+- GitHub repository created
 - Folder structure setup
-- Environment variables structure created
+- Environment variables example added
+- Initial planning completed
 
 ## Status
 Project setup phase completed.
