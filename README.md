@@ -20,5 +20,9 @@ A full-stack job portal where recruiters can post jobs and job seekers can apply
 - Environment variables example added
 - Initial planning completed
 
-## Status
-Project setup phase completed.
+## Day 2 Progress
+- Created Job Posting API
+- Set up basic React components for job listings
+- Connected frontend to backend API
+- Implemented basic routing
+
